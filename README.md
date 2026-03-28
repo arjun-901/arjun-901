@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Cloude</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Claude</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
@@ -9,11 +9,17 @@
 
 ### 👨‍💻 About Me
 
+### 👨‍💻 About Me
+
 * 🎓 BCA Final Year Student
-* 💻 I build scalable full stack web applications
+* 💻 I build scalable full stack web applications using MERN stack
+* ☁️ Hands-on experience with AWS (deployment & cloud services)
 * 🚀 Currently working on real-world projects
-* 🤝 Open to collaboration
-* 📈 Always learning new technologies
+* ⚡ Strong understanding of REST APIs & backend architecture
+* 🔧 Experience with Git, Postman & Linux environment
+* 🤝 Open to collaboration on real-world and startup projects
+* 📈 Continuously learning new technologies and improving problem-solving skills
+
 
 ---
 
