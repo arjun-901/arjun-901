@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
-
----
-
-### 👨‍💻 About Me
-
-* 🎓 BCA Final Year Student
-* 💻 I build full stack web applications
 * 🚀 Currently working on real-world projects
 * 🤝 Open to collaboration
 
@@ -54,10 +45,4 @@
 
 * 🔹 TeamSync – Team collaboration platform
 * 🔹 Digisoch – Study & blogging website
-* 🔹 Video Downloader Tool
-
----
-
-### ⚡ Fun Fact
-
-> I build things that solve real problems 💡
+* 🔹 Digisoch AI - Enhance your Experience
